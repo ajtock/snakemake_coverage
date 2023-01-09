@@ -1,0 +1,27 @@
+RUNS: [
+    "run1_EU"
+#    "run2_EU",
+#    "run3_4_high_EU",
+#    "run3_4_low_EU",
+#    "run5_EU",
+#    "run6_EU",
+#    "run8_EU",
+#    "run9_EU",
+#    "run10_EU",
+#    "run11",
+#    "run12",
+#    "run13_1",
+#    "run13_2",
+#    "run13_3",
+#    "run13_4",
+#    "run14_1",
+#    "run14_2",
+#    "run14_3",
+#    "run14_4",
+#    "run15_2",
+#    "run15_3",
+#    "run16_1"
+]
+REGIONS:
+    baits: "resources/Origin_Assets_EU/Nonacus_covered.bed"
+    targets: "resources/Origin_Assets_EU/Nonacus_target_merged.bed"
